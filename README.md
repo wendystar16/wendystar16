@@ -3,3 +3,5 @@
 #  Seja bem vinda ao meu perfil do Github
 
 - ## Olá,eu sou Marialina Zamgirolami também com WendyS16,MaryStar166 ou MaryS16.
+
+<a href=#><img src="contributions.svg"></a>

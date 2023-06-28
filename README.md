@@ -2,6 +2,10 @@
 
 #  Seja bem vinda ao meu perfil do Github
 
-- ## Olá,eu sou Marialina Zamgirolami também com WendyS16,MaryStar166 ou MaryS16.
-
+- ## Olá,eu sou Marialina Zamgirolami também com WendyS16,MaryStar166 ou MaryS16.Sou uma entusiasta à Designer Gráfico, programadora de Discord, pró player de Minecraft, estou iniciando no mundo de programação Java.Sou uma pessoa determinada, criativa, decidida, forte, energica e que gosto de usar meu tempo livre a aprender mais sobre o mundo da Música
+# Informações Básicos:
+- ## Moderaderação no Rede Kingo
+- ## Denigner e Desenhista em horas vagas
+### Plataformas de interação:
+[![Discord-Kingo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wJp7Zeghy9)
 <a href=#><img src="contributions.svg"></a>

@@ -2,7 +2,7 @@
 
 #  Seja bem vinda ao meu perfil do Github
 
-- ## Olá,eu sou Marialina Zangirolami também com WendyS16,MaryStar166 ou MaryS16.Sou uma entusiasta à Designer Gráfico, programadora de Discord, pró player de Minecraft, estou iniciando no mundo de programação Java. Sou uma pessoa determinada, criativa, decidida, forte, energica e que gosto de usar meu tempo livre a aprender mais sobre o mundo da música.
+- ## Olá,eu sou Marialina Zangirolami também com WendyS16,MaryStar166 ou MaryS16.Sou uma entusiasta à Designer Gráfico, programadora de Discord, pro player de Minecraft, estou iniciando no mundo de programação Java. Sou uma pessoa determinada, criativa, decidida, forte, enérgica e que gosto de usar meu tempo livre a aprender mais sobre o mundo da música.
 <a href=#><img src="contributions.svg"></a>
 - ## Informações Básicas:
 ###     Moderação em Rede Kingo

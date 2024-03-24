@@ -9,5 +9,5 @@
 ###     Denigner e Desenhista
 - ## Plataformas de interação:
 [![Discord-Kingo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wJp7Zeghy9)
-[![Discord-Kingo](https://img.shields.io/badge/Portf%C3%B3lio-C208FB?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wJp7Zeghy9)
+[![](https://img.shields.io/badge/Portf%C3%B3lio-C208FB?style=for-the-badge&logo=discord&logoColor=white)](https://www.behance.net/wendys16)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7100c3&height=120&section=footer"/>
